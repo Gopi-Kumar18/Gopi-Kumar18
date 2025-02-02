@@ -25,11 +25,7 @@ I'm a Aspiring **Web Developer and DevOps Learner** currently pursuing a **Bache
 - Enhancing my skills in **Java backend optimization**.
 
 ## 📬 Let's Connect
-- **LinkedIn:
--**![LinkedIn Badge](<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>)
-              
--**<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="VERTICAL" data-vanity="gopi-k1811" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/gopi-k1811?trk=profile-badge">Gopi Kumar</a></div>
-              
+- **LinkedIn:https://www.linkedin.com/in/gopi-k18/
 - **GitHub:https://github.com/Gopi-K18
 - **Email:** [gptz1811@gmail.com]
 
