@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Gopi_Kumar
+# Hi ,👋 I'm Gopi_Kumar
 
 ## 🚀 About Me
 I'm a Aspiring **Web Developer and DevOps Learner** currently pursuing a **Bachelor of Technology (B.Tech) in Information Technology** at **Lovely Professional University, Punjab**.
