@@ -13,24 +13,23 @@ I'm a Aspiring **Web Developer and DevOps Learner** currently pursuing a **Bache
 - **Backend:** Node.js, Express.js, MongoDB, MySQL, Java Servlets
 - **DevOps & Tools:** Docker, Git, GitHub, Cloud Deployment, CI/CD
 
-
 ## 🏆 Achievements & Projects
 - Built a **File Converter Web App** using React, Node.js, and CloudConvert API.
 - Developed a **Login System** using Java Servlets and MySQL.
 - Created an **authentication system** with strong password validation.
-- 
 
 ## 📚 Learning & Growing
 - Currently exploring **microservices architecture** and **serverless computing**.
 - Enhancing my skills in **Java backend optimization**.
 
 ## 📬 Let's Connect
-- **LinkedIn:   <a href=" https://www.linkedin.com/in/gopi-k18/" target="_blank">
-                <img src="https://media.licdn.com/dms/image/v2/D4D35AQEVXpYVDG9hxQ/profile-framedphoto- 
-                  shrink_400_400/profile-framedphoto-shrink_400_400/0/1723183342867? 
-                  e=1739282400&v=beta&t=djTqgRWRuSCwgEtzk42FXeCPrSqbJLV2hO3WsXLkiHs" alt="LinkedIn Badge" style="width: 
-                  100px; height: 100px; border-radius: 50%; border: 2px solid #0077B5;">
-                 </a>
+- **LinkedIn:
+- <a href=" https://www.linkedin.com/in/gopi-k18/" target="_blank">
+<img src="https://media.licdn.com/dms/image/v2/D4D35AQEVXpYVDG9hxQ/profile-framedphoto- 
+shrink_400_400/profile-framedphoto-shrink_400_400/0/1723183342867? 
+ e=1739282400&v=beta&t=djTqgRWRuSCwgEtzk42FXeCPrSqbJLV2hO3WsXLkiHs" alt="LinkedIn Badge" style="width: 
+100px; height: 100px; border-radius: 50%; border: 2px solid #0077B5;">
+</a>
 
 - **GitHub:**https://github.com/Gopi-K18
 - **Email:** gptz1811@gmail.com
