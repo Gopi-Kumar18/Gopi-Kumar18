@@ -7,19 +7,23 @@ I'm a Aspiring **Web Developer and DevOps Learner** currently pursuing a **Bache
 - Learning **DevOps** practices and exploring **CI/CD** pipelines.
 - Developing **full-stack web applications** using **MERN** and **Java**.
 - Expanding my knowledge in **Java**, **Node.js**, and **Cloud Computing**.
+- Passionate about integrating AI features into web applications to enhance scalability and deliver more comprehensive functionality.
 
 ## 🔧 T-Stack
-- **Frontend:** React.js, HTML, CSS, JavaScript
-- **Backend:** Node.js, Express.js, MongoDB, MySQL, Java Servlets
-- **DevOps & Tools:** Docker, Git, GitHub, Cloud Deployment, CI/CD
+- **Frontend:** React.js, HTML, CSS, JavaScript, Next.Js(Basics), BootStrap 
+- **Backend:** Node.js, Express.js, SprinBoot, Java Servlets, MongoDB, MySQL
+- **DevOps & Tools:** Docker, Git, GitHub, Postman, CI/CD, Jenkins
 
 ## 🏆 Achievements & Projects
-- Built a **File Converter Web App** using React, Node.js, and CloudConvert API.
-- Developed a **Login System** using Java Servlets and MySQL.
-- Created an **authentication system** with strong password validation.
+-1.) Built a **DocSwitch Web App**, a MERN-stack application with RESTful APIs, third-party integration (Adobe & CloudConvert).
+- Integrated AI Powered Question Generator with various customizable features like selecting **Question counts/Difficulty** and Instant Result Display with HIstory Tracking
+
+- 2.) Developed a **Banking Management System backend** using Spring Boot, featuring RESTful APIs for account creation, deposits, withdrawals, and transaction tracking.
+- Also Integrated **Spring Security** for user authentication and role-based access control to ensure secure operations.
+- Implemented a Spring MVC layered architecture with robust validation and exception handling for clean, scalable code.
 
 ## 📚 Learning & Growing
-- Currently exploring **microservices architecture** and **serverless computing**.
+- Currently exploring **Microservices architecture in SpringBoot** and **serverless computing**.
 - Enhancing my skills in **Java backend optimization**.
 
 ## 📬 Connect me on 
