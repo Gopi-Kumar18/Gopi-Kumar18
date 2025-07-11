@@ -11,14 +11,14 @@ I'm a Aspiring **Web Developer and DevOps Learner** currently pursuing a **Bache
 
 ## 🔧 T-Stack
 - **Frontend:** React.js, HTML, CSS, JavaScript, Next.Js(Basics), BootStrap 
-- **Backend:** Node.js, Express.js, SprinBoot, Java Servlets, MongoDB, MySQL
+- **Backend:** Node.js, Express.js, SpringBoot, Java Servlets, MongoDB, MySQL
 - **DevOps & Tools:** Docker, Git, GitHub, Postman, CI/CD, Jenkins
 
 ## 🏆 Achievements & Projects
 -1.) Built a **DocSwitch Web App**, a MERN-stack application with RESTful APIs, third-party integration (Adobe & CloudConvert).
-- Integrated AI Powered Question Generator with various customizable features like selecting **Question counts/Difficulty** and Instant Result Display with HIstory Tracking
+- Integrated AI Powered Question Generator with various customizable features like selecting **Question counts/Difficulty** and Instant Result Display with HIstory Tracking.
 
-- 2.) Developed a **Banking Management System backend** using Spring Boot, featuring RESTful APIs for account creation, deposits, withdrawals, and transaction tracking.
+-2.) Developed a **Banking Management System backend** using Spring Boot, featuring RESTful APIs for account creation, deposits, withdrawals, and transaction tracking.
 - Also Integrated **Spring Security** for user authentication and role-based access control to ensure secure operations.
 - Implemented a Spring MVC layered architecture with robust validation and exception handling for clean, scalable code.
 
