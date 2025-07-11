@@ -7,7 +7,7 @@ I'm a Aspiring **Web Developer and DevOps Learner** currently pursuing a **Bache
 - Learning **DevOps** practices and exploring **CI/CD** pipelines.
 - Developing **full-stack web applications** using **MERN** and **Java**.
 - Expanding my knowledge in **Java**, **Node.js**, and **Cloud Computing**.
-- Passionate about integrating AI features into web applications to enhance scalability and deliver more comprehensive functionality.
+- Passionate about adding AI features to web applications to improve scalability and provide better functionality.
 
 ## 🔧 T-Stack
 - **Frontend:** React.js, HTML, CSS, JavaScript, Next.Js(Basics), BootStrap 
