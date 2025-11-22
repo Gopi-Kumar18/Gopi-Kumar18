@@ -17,7 +17,7 @@ I'm a Aspiring **Web Developer and DevOps Learner** currently pursuing a **Bache
 ## 🏆 Achievements & Projects
 -1.) Built a **DocSwitch Web App**, a MERN-stack application with RESTful APIs, third-party integration (Adobe PDF Services, IlovePDF, CloudConvert).
 - Integrated AI Powered Question Generator with various customizable features like selecting **Question counts/Difficulty** and Instant Result Display with HIstory Tracking.
-- **LIVE DEPLOYMENT LINK, https://docswitch.vercel.com**
+- **LIVE DEPLOYMENT LINK, https://docswitch.vercel.app**
 
 -2.) Developed a **Banking Management System backend** using Spring Boot, featuring RESTful APIs for account creation, deposits, withdrawals, and transaction tracking.
 - Also Integrated **Spring Security** for user authentication and role-based access control to ensure secure operations.
