@@ -6,17 +6,18 @@ I'm a Aspiring **Web Developer and DevOps Learner** currently pursuing a **Bache
 ## 🎯 Current Focus
 - Learning **DevOps** practices and exploring **CI/CD** pipelines.
 - Developing **full-stack web applications** using **MERN** and **Java**.
-- Expanding my knowledge in **Java**, **Node.js**, and **Cloud Computing**.
+- Expanding my knowledge in **Java**, **JavaScript frameworks**, and **Cloud Computing**.
 - Passionate about adding AI features to web applications to improve scalability and provide better functionality.
 
 ## 🔧 T-Stack
-- **Frontend:** React.js, HTML, CSS, JavaScript, Next.Js(Basics), BootStrap 
-- **Backend:** Node.js, Express.js, SpringBoot, Java Servlets, MongoDB, MySQL
-- **DevOps & Tools:** Docker, Git, GitHub, Postman, CI/CD, Jenkins
+- **Frontend:** React.js, Next.Js(Basics)
+- **Backend:** Java, Python, SpringBoot, Express.js, Django, MongoDB, MySQL
+- **DevOps & Tools:** Version Control, Docker, Jenkins, CI/CD, Puppet, Terraform, Ansible, AWS
 
 ## 🏆 Achievements & Projects
--1.) Built a **DocSwitch Web App**, a MERN-stack application with RESTful APIs, third-party integration (Adobe & CloudConvert).
+-1.) Built a **DocSwitch Web App**, a MERN-stack application with RESTful APIs, third-party integration (Adobe PDF Services, IlovePDF, CloudConvert).
 - Integrated AI Powered Question Generator with various customizable features like selecting **Question counts/Difficulty** and Instant Result Display with HIstory Tracking.
+- **LIVE DEPLOYMENT LINK, https://docswitch.vercel.com**
 
 -2.) Developed a **Banking Management System backend** using Spring Boot, featuring RESTful APIs for account creation, deposits, withdrawals, and transaction tracking.
 - Also Integrated **Spring Security** for user authentication and role-based access control to ensure secure operations.
