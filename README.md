@@ -9,10 +9,10 @@ I'm a Aspiring **Web Developer and DevOps Learner** currently pursuing a **Bache
 - Expanding my knowledge in **Java**, **JavaScript frameworks**, and **Cloud Computing**.
 - Passionate about adding AI features to web applications to improve scalability and provide better functionality.
 
-## 🔧 T-Stack
+## 🔧 Technology-Stack
 - **Frontend:** React.js, Next.Js(Basics)
-- **Backend:** Java, Python, SpringBoot, Express.js, Django, MongoDB, MySQL
-- **DevOps & Tools:** Version Control, Docker, Jenkins, CI/CD, Puppet, Terraform, Ansible, AWS
+- **Backend:** Java, Python, SpringBoot, MongoDB, MySQL
+- **DevOps & Tools:** Git, Docker, Jenkins, CI/CD, Puppet, Terraform, Ansible, Kubernetes(Basics), AWS.
 
 ## 🏆 Achievements & Projects
 -1.) Built a **DocSwitch Web App**, a MERN-stack application with RESTful APIs, third-party integration (Adobe PDF Services, IlovePDF, CloudConvert).
@@ -24,7 +24,7 @@ I'm a Aspiring **Web Developer and DevOps Learner** currently pursuing a **Bache
 - Implemented a Spring MVC layered architecture with robust validation and exception handling for clean, scalable code.
 
 ## 📚 Learning & Growing
-- Currently exploring **Microservices architecture in SpringBoot** and **serverless computing**.
+- Currently exploring **Microservices architecture in SpringBoot** and **AWS Cloud**.
 - Enhancing my skills in **Java backend optimization**.
 
 ## 📬 Connect me on 
